@@ -122,7 +122,7 @@ tabPanel("Aggregation",icon=icon("plus-square-o",lib="font-awesome"),
                                 actionButton("InfoAgg1","Help",icon = icon("info")),
                                 actionButton("ResetAgginputs","Reset inputs",icon = icon("refresh")),
                                 actionButton(inputId='ab2', label="Read pdf article", 
-                                            icon = icon("book"), onclick ="location.href='http://claimsreserving.com/Aggregationexample_temp.pdf';")
+                                            icon = icon("book"), onclick ="location.href='https://github.com/djhindley/shiny-server/blob/master/claimsreserving/Aggregationexample_temp.pdf';")
                                 )
                                  
                                ) # close overall assumption wellPanel
