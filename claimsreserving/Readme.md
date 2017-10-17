@@ -25,7 +25,7 @@ It also contains a simple example to show the effect of using different assumpti
 
 As with the R code included in an appendix to the Claims Reserving book, this app makes use of the ChainLadder R package, further details of which are available [here](https://cran.r-project.org/web/packages/ChainLadder/ChainLadder.pdf).
 
-The overall design of the app is intended to enable the user to experiment with using the relevant reserving methods.  The default assumptions used when the app is first loaded will produce results that are consistent, where relevant, with the corresponding worked examples in the book. By selecting alternative datasets and/or alternative input assumptions, the app can be used to understand the effect on the corresponding results.
+The overall design of the app is intended to enable the user to experiment using the relevant reserving methods.  The default assumptions used when the app is first loaded will produce results that are consistent, where relevant, with the corresponding worked examples in the book. By selecting alternative datasets and/or alternative input assumptions, the app can be used to understand the effect on the corresponding results.
 
 The app is not intended to be a substitute for either a bespoke internal reserving system or for any of the commercially available proprietary specialist reserving packages. Other important caveats regarding the software usage, including the license details are given at the end of this document. 
  
