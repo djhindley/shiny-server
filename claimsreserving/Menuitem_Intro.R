@@ -14,9 +14,9 @@
 #Introduction menu item
 #Date: 1 October 2017
 tabPanel("",icon=icon("home"),
-         actionButton(inputId='ab1', label="Go to www.claimsreserving.com", 
-              icon = icon("home"), onclick ="location.href='http://claimsreserving.com';"),
-         h2(icon("line-chart",class="fa-3x"), align="center"),
+         #actionButton(inputId='ab1', label="Go to www.claimsreserving.com", 
+            #  icon = icon("home"), onclick ="location.href='http://claimsreserving.com';"),
+        # h2(icon("line-chart",class="fa-3x"), align="center"),
          
          jumbotron("GIRA - General Insurance Reserving Application", "An app' to accompany the book.",
                    buttonLabel = "Introduction"),
