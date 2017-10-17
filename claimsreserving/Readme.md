@@ -2,7 +2,7 @@
 
 > *Copyright 2017 David Hindley*
 
-**If you have not already read the Notice and License information relating to this application, please do so by reading the NoticeLicense.md file and the accompanying License.md file (or a later version of GPL). These files explain the terms under which the software code and application are distributed.**
+**If you have not already read the Notice and License information relating to this application, please do so by reading the NoticeLicense.md file and the accompanying LICENSE file (or a later version of GPL). These files explain the terms under which the software code and application are distributed.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This documentation and all the other help files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  Please read this before making any further use of the documentation.
 
