@@ -2,7 +2,7 @@
 
 **If you have not already read the Notice and License information relating to this application, please do so by selecting the relevant item from the help menu (denoted by the question mark)**
 
-This application is designed as a learning aid to accompany the book published in 2017 by Cambridge University Press, entitled "Claims reserving in general insurance", written by David Hindley.  This book is referred to as the Claims Reserving book in the rest of the documentation in the app', with any references to "Sections" being to sections within the book.
+This application is designed as a learning aid to accompany the book published in 2017 by Cambridge University Press, entitled "Claims reserving in General Insurance", written by David Hindley.  This book is referred to as the Claims Reserving book in the rest of the documentation in the app', with any references to "Sections" being to sections within the book.
 
 The application includes the following claims reserving methods:
 
@@ -51,7 +51,7 @@ Further details are available in the [ChainLadder R package documentation](https
 
 **Usage and Source code**
 
-The web-based version of the application is stored on a virtual server managed by the application's author. This has limited capacity and may not always provide reasonable performance. If you want to run the application locally on your own device or server, please see the [Github repository](https://github.com/djhindley/GIRA), which contains the source code.
+The web-based version of the application is stored on a virtual server managed by the application's author. This has limited capacity and may not always provide reasonable performance. If you want to run the application locally on your own device or server, please see the [Github repository](https://github.com/djhindley/shiny-server/tree/master/claimsreserving), which contains the source code.
 
 ----------
 
