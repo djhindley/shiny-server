@@ -1,6 +1,6 @@
 ## GIRA - General Insurance Claims Reserving Application
 
-**If you have not already read the Notice and License information relating to this application, please do so by reading the NoticeLicense.md file and the accompanying License.md file (or a later version of GPL).**
+**If you have not already read the Notice and License information relating to this application, please do so by reading the NoticeLicense.md file and the accompanying LICENSE file (or a later version of GPL).**
 
 **Source Code and web application**
 
