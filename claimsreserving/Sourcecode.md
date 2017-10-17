@@ -1,4 +1,4 @@
-## Old Source code
+## Source code
 
 The source code for this application is available in a Github repository, available [here](https://github.com/djhindley/shiny-server/tree/master/claimsreserving).  
 
