@@ -51,7 +51,9 @@ Further details are available in the [ChainLadder R package documentation](https
 
 **Usage and Source code**
 
-The web-based version of the application is stored on a virtual server managed by the application's author. This has limited capacity and may not always provide reasonable performance. If you want to run the application locally on your own device or server, please see the [Github repository](https://github.com/djhindley/shiny-server/tree/master/claimsreserving), which contains the source code.
+The web-based version of the application is stored on a virtual server managed by the application's author. This has limited capacity and may not always provide reasonable performance. It may also cease to be available at some point in future.
+
+If you want to run the application locally on your own device or server, please see the [Github repository](https://github.com/djhindley/shiny-server/tree/master/claimsreserving), which contains the source code.
 
 ----------
 
