@@ -1,6 +1,6 @@
 ####################NOTICE and LICENSE##############################
 #This file is part of GIRA - a claims reserving application designed for educational purposes only
-##Please see https://github.com/djhindley/GIRA/blob/master/NoticeLicense.md for notice and license relating to this 
+##Please see https://github.com/djhindley/shiny-server/blob/master/claimsreserving/NoticeLicense.md for notice and license relating to this 
 #Copyright 2017 David Hindley.
 #This program is free software; you can redistribute it and/or modify it under the terms of the 
 #GNU General Public License as published by the Free Software Foundation, either version 2 of the License, 
