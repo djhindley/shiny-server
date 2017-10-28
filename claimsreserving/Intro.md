@@ -2,7 +2,7 @@
 
 **If you have not already read the Notice and License information relating to this application, please do so by selecting the relevant item from the help menu (denoted by the question mark)**
 
-This application is designed as a learning aid to accompany the book published in 2017 by Cambridge University Press, entitled "Claims reserving in General Insurance", written by David Hindley.  This book is referred to as the Claims Reserving book in the rest of the documentation in the app', with any references to "Sections" being to sections within the book.
+This application is designed as a learning aid to accompany the book published in 2017 by Cambridge University Press, entitled "Claims reserving in General Insurance", written by David Hindley.  This book is referred to as the Claims Reserving book in the rest of the documentation in the app', with any references to "Sections" being to sections within the book.  Further details of the book are available [here](http://www.cambridge.org/gb/academic/subjects/mathematics/optimization-or-and-risk-analysis/claims-reserving-general-insurance?format=HB&isbn=9781107076938#Xdlv1szU8mUQoG50.97).
 
 The application includes the following claims reserving methods:
 
