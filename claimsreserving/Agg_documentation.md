@@ -1,6 +1,6 @@
 ## User notes for Aggregation module
 
-This module is designed to accompany an article that describes a worked example of the aggregation of results produced using stochastic reserving methods across classes of business.  The article is effectively an addendum to Section 4.9 - "Combining Results across classes" in the book "Claims Reserving in General Insurance" by David Hindley, published in October 2017.  Except where indicated, references to tables in this documentation are to those in the article.  The article will be made available after the book is published. In the meantime, an extract is available [here](http://claimsreserving.com/Aggregationexample_temp.pdf).
+This module is designed to accompany an article that describes a worked example of the aggregation of results produced using stochastic reserving methods across classes of business.  The article is effectively an addendum to Section 4.9 - "Combining Results across classes" in the book "Claims Reserving in General Insurance" by David Hindley, published in October 2017.  Except where indicated, references to tables in this documentation are to those in the article.  The article is available [here](https://github.com/djhindley/shiny-server/blob/master/claimsreserving/Aggregationexample.pdf).
 
 The module is designed to demonstrate the impact on results of using different assumptions for each class of business and to explore how different correlation and copula assumptions affect, for example, the diversification benefits produced when the results are aggregated across classes.
 
