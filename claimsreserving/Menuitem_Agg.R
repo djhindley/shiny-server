@@ -18,7 +18,8 @@ tabPanel("Aggregation",icon=icon("plus-square-o",lib="font-awesome"),
                       fluidRow(
                         column(3,
                                wellPanel(id="Agg_inputpanel",
-                                tabBox(width="NULL",    #main tabBox for assumptions
+                                         
+                                         tabBox(width="NULL",    #main tabBox for assumptions
                                  tabPanel("Class assumptions", # Class Assumptions tabPanel
                                    tabBox(width=NULL,
                                           tabPanel("Class A",
@@ -122,7 +123,7 @@ tabPanel("Aggregation",icon=icon("plus-square-o",lib="font-awesome"),
                                 actionButton("InfoAgg1","Help",icon = icon("info")),
                                 actionButton("ResetAgginputs","Reset inputs",icon = icon("refresh")),
                                 actionButton(inputId='ab2', label="Read pdf article", 
-                                            icon = icon("book"), onclick ="location.href='https://github.com/djhindley/shiny-server/blob/master/claimsreserving/Aggregationexample_temp.pdf';")
+                                            icon = icon("book"), onclick ="location.href='https://github.com/djhindley/shiny-server/blob/master/claimsreserving/Aggregationexample.pdf';")
                                 )
                                  
                                ) # close overall assumption wellPanel
