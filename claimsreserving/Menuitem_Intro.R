@@ -20,7 +20,7 @@ tabPanel("",icon=icon("home"),
         
          jumbotron("GIRA - General Insurance Reserving Application", "An app' to accompany the book.",
                    buttonLabel = "Introduction"),
-         imageOutput("Book1"),
+        tags$a(imageOutput("Book1"),href="https://goo.gl/A1Gzc2"),
          bsModal("modalExample", "", "tabBut", size = "large" ,
                  
                  includeMarkdown("Intro.md"),
