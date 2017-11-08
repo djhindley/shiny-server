@@ -33,6 +33,21 @@ server <- function(input, output, session) {
   
   toggleModal(session, "Licensemodal", toggle = "open")
   
+  
+  output$Book1 <-renderImage({
+    return(list(
+      src = "Book3.png",
+      contentType = "image/png",
+      alt = "Book"
+      #width=179,
+      #height=254
+    ))
+      },deleteFile = FALSE
+  )
+  
+  
+  
+  
   ##################################################################
   ################Chain Ladder######################################
   ##################################################################

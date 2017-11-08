@@ -17,9 +17,10 @@ tabPanel("",icon=icon("home"),
          #actionButton(inputId='ab1', label="Go to www.claimsreserving.com", 
             #  icon = icon("home"), onclick ="location.href='http://claimsreserving.com';"),
         # h2(icon("line-chart",class="fa-3x"), align="center"),
-         
+        
          jumbotron("GIRA - General Insurance Reserving Application", "An app' to accompany the book.",
                    buttonLabel = "Introduction"),
+         imageOutput("Book1"),
          bsModal("modalExample", "", "tabBut", size = "large" ,
                  
                  includeMarkdown("Intro.md"),
@@ -27,19 +28,20 @@ tabPanel("",icon=icon("home"),
                  em(
                    a("info@claimsreserving.com", href = "mailto:info@claimsreserving.com"),
                    span("")
-                 ),
-                 br()
+                 )
+                 #br()
          ),  #close bsModal
-         bsModal("Licensemodal", "", trigger="", size = "large" ,
+         
+        bsModal("Licensemodal", "", trigger="", size = "large" ,
                  
                  includeMarkdown("NoticeLicense.md"),
                  span("To contact the author of this application please send an email to: "),
                  em(
                    a("info@claimsreserving.com", href = "mailto:info@claimsreserving.com"),
                    span("")
-                 ),
-                 br()
-         )#close bsModal
+                 )
+                 #br()
+         ) #close bsModal
 )
          
-         
+    
