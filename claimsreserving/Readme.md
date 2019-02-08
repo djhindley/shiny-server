@@ -79,7 +79,7 @@ Thanks to Andrew Katz at [Moorcrofts](http://www.moorcrofts.com) for help with t
 
 ## Contributions and Contact details
 
-This software is provided at no cost and in open source format, to encourage others to contribute.  In the Issues part of this repo', there are a selected list of known issues and additional features that could be added. If you are familiar with Github and wish to contribute in any way, please feel free to create a pull request, open a new issue, or suggest a solution for one of the already identified issues/  Alternatively, just contact me by email using info@claimsreserving.com.  Any contributions and comments are welcome!
+This software is provided at no cost and in open source format, to encourage others to contribute.  In the Issues part of this repo', there are a selected list of known issues and additional features that could be added. If you are familiar with Github and wish to contribute in any way, please feel free to create a pull request, open a new issue, or suggest a solution for one of the already identified issues/  Alternatively, just contact me by email using dhindley@djhindley.com.  Any contributions and comments are welcome!
 
 ----------
 
