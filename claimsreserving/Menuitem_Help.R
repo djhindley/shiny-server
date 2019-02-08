@@ -77,7 +77,7 @@ navbarMenu("",icon=icon("question-circle"),
                              wellPanel(style = "background-color: #ffffff;",
                                        span("To contact the author of this application with any questions, comments or feedback, please send an email to: "),
                                        em(
-                                         a("info@claimsreserving.com", href = "mailto:info@claimsreserving.com"),
+                                         a("dhindley@djhindley.com", href = "mailto:dhindley@djhindley.com"),
                                          span("")
                                        ),
                                        br()           
