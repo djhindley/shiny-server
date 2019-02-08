@@ -26,7 +26,7 @@ tabPanel("",icon=icon("home"),
                  includeMarkdown("Intro.md"),
                  span("Provide feedback via email to: "),
                  em(
-                   a("info@claimsreserving.com", href = "mailto:info@claimsreserving.com"),
+                   a("dhindley@djhindley.com", href = "mailto:dhindley@djhindley.com"),
                    span("")
                  )
                  #br()
@@ -37,7 +37,7 @@ tabPanel("",icon=icon("home"),
                  includeMarkdown("NoticeLicense.md"),
                  span("To contact the author of this application please send an email to: "),
                  em(
-                   a("info@claimsreserving.com", href = "mailto:info@claimsreserving.com"),
+                   a("dhindley@djhindley.com", href = "mailto:dhindley@djhindley.com"),
                    span("")
                  )
                  #br()
