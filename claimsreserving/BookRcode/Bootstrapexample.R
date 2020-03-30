@@ -39,7 +39,7 @@ curve(plnorm(x,fit$estimate["meanlog"], fit$estimate["sdlog"]), col="red", add=T
 #now do with Gamma process distribution
 set.seed(1328967780)
 #Run a chain ladder bootstrap model with 5000 sims and now gamma for process error
-Boot2<-BootChainLadder2(GenIns, 5000,process.dist=c("gamma"))
+Boot2<-BootChainLadder(GenIns, 5000,process.dist=c("gamma"))
 #View results
 Boot2summary <-summary(Boot2)
 Boot2summary
