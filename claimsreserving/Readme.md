@@ -18,7 +18,7 @@
 
 ## Source Code and web application
 
-You are viewing the Readme.md file for this application located along with the underlying source code on Github, written in R, using Shiny.  If you just want to run the application from a web browser, follow this [link](https://goo.gl/ZrEcM5).  The web-based version of the application is stored on a virtual server at [Digital Ocean](https://www.digitalocean.com/), managed by the application's author.  This server has limited capacity and may not always provide reasonable performance.  
+You are viewing the Readme.md file for this application located along with the underlying source code on Github, written in R, using Shiny.  If you just want to run the application from a web browser, follow this [link](https://goo.gl/ZrEcM5).  The web-based version of the application is stored on a virtual server at [Digital Ocean](https://www.digitalocean.com/), managed by the application's author.  This server has limited capacity and may not always provide reasonable performance.  UPDATE 6 AUGUST 2025 - The web version is no longer available, so any reference to that here is now redundant.
 
 If you want to run the application locally on your own device or server, you can do so, subject to the above referenced notice and license conditions, by downloading all the relevant R and Markdown files located in this Github repository and proceeding from there.  You will need to be familiar with R and Shiny to do this. Further details of Shiny are available [here](https://shiny.rstudio.com/).  GIRA is a Shiny application stored in ui.R and server.R files, which each reference several other R files and Markdown files, all of which are located in this Github repository.
 
@@ -79,7 +79,8 @@ Thanks to Andrew Katz at [Moorcrofts](http://www.moorcrofts.com) for help with t
 
 ## Contributions and Contact details
 
-This software is provided at no cost and in open source format, to encourage others to contribute.  In the Issues part of this repo', there are a selected list of known issues and additional features that could be added. If you are familiar with Github and wish to contribute in any way, please feel free to create a pull request, open a new issue, or suggest a solution for one of the already identified issues/  Alternatively, just contact me by email using dhindley@djhindley.com.  Any contributions and comments are welcome!
+This software is provided at no cost and in open source format, to encourage others to contribute.  In the Issues part of this repo', there are a selected list of known issues and additional features that could be added. If you are familiar with Github and wish to contribute in any way, please feel free to create a pull request, open a new issue, or suggest a solution for one of the already identified issues/  Alternatively, just contact me by email using hindleydj@gmail.com.  Any contributions and comments are welcome!
 
 ----------
+
 
